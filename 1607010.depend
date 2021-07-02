@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1529815149 source:f:\class\1607010\main.cpp
+	"menu.h"
+
+1529823075 f:\class\1607010\include\student.h
+	<string>
+	<fstream>
+	<iostream>
+	"contact.h"
+
+1529349881 source:f:\class\1607010\src\cgpa.cpp
+	"cgpa.h"
+
+1529516857 f:\class\1607010\include\cgpa.h
+	<bits/stdc++.h>
+
+1529821404 source:f:\class\1607010\src\contact.cpp
+	"contact.h"
+
+1529820455 f:\class\1607010\include\contact.h
+	<iostream>
+	<string>
+
+1529823075 source:f:\class\1607010\src\student.cpp
+	"student.h"
+	<bits/stdc++.h>
+
+1529822038 f:\class\1607010\menu.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<vector>
+	<algorithm>
+	"student.h"
+
+1529813957 f:\class\1607010\main.h
+	<bits/stdc++.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	"student.h"
+	"menu.h"
+	"srch.h"
+
+1529680626 f:\class\1607010\srch.h
+
+1529814199 source:f:\class\1607010\insrt.cpp
+	"insrt.h"
+	<algorithm>
+
+1529814415 f:\class\1607010\insrt.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<vector>
+	"student.h"
+	"menu.h"
+	"srch.h"
+
+1529861510 source:f:\class\1607010\menu.cpp
+	"menu.h"
+	<algorithm>
+
+1529762673 source:f:\class\1607010\srch.cpp
+	<bits/stdc++.h>
+	"main.h"
+
+1529815149 source:f:\code\class\1607010\main.cpp
+	"menu.h"
+
+1529822038 f:\code\class\1607010\menu.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<iomanip>
+	<vector>
+	<algorithm>
+	"student.h"
+
+1529823075 f:\code\class\1607010\include\student.h
+	<string>
+	<fstream>
+	<iostream>
+	"contact.h"
+
+1529820455 f:\code\class\1607010\include\contact.h
+	<iostream>
+	<string>
+
+1529861510 source:f:\code\class\1607010\menu.cpp
+	"menu.h"
+	<algorithm>
+
+1529821404 source:f:\code\class\1607010\src\contact.cpp
+	"contact.h"
+
+1529823075 source:f:\code\class\1607010\src\student.cpp
+	"student.h"
+	<bits/stdc++.h>
+
